@@ -1,0 +1,104 @@
+[
+    {
+        "bookId": "53206453",
+        "bookLink": "https://www.goodreads.com/book/show/53206453-t-tuy-t-cho-n-ng",
+        "bookTitle": "Tứ tuyệt cho nàng",
+        "bookRate": "0.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "3953369"
+            ],
+            "userName": [
+                "Tuan "
+            ],
+            "rate": [
+                0
+            ],
+            "contentReview": [
+                ""
+            ],
+            "commentList": [
+                ""
+            ],
+            "datePost": [
+                "Apr 19, 2020"
+            ]
+        }
+    },
+    {
+        "bookId": "28961747",
+        "bookLink": "https://www.goodreads.com/book/show/28961747-th-m-th-m-b-ng-ng-i",
+        "bookTitle": "Thăm thẳm bóng người",
+        "bookRate": "0.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "42259367",
+                "61165504",
+                "67253117",
+                "82626146",
+                "18446231",
+                "70089371",
+                "76884783",
+                "98000044",
+                "88252354"
+            ],
+            "userName": [
+                "Huyền Trang",
+                "Lam",
+                "Kido",
+                "Linh Dương",
+                "Xuan",
+                "Đan Trần",
+                "Tu Do Thu Ha",
+                "phuong191",
+                "Lê Phan Quỳnh"
+            ],
+            "rate": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "May 05, 2016",
+                "Nov 02, 2016",
+                "May 04, 2017",
+                "Jan 04, 2019",
+                "May 05, 2019",
+                "May 24, 2019",
+                "May 27, 2019",
+                "Jun 26, 2019",
+                "Jun 09, 2020"
+            ]
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "bookId": "53206470",
+        "bookLink": "https://www.goodreads.com/book/show/53206470-th-t-nh",
+        "bookTitle": "Thơ tình",
+        "bookRate": "0.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "3953369"
+            ],
+            "userName": [
+                "Tuan "
+            ],
+            "rate": [
+                0
+            ],
+            "contentReview": [
+                ""
+            ],
+            "commentList": [
+                ""
+            ],
+            "datePost": [
+                "Apr 19, 2020"
+            ]
+        }
+    },
+    {
+        "bookId": "53206479",
+        "bookLink": "https://www.goodreads.com/book/show/53206479-u-xu-n-ra-s-ng-gi-t-o",
+        "bookTitle": "Đầu xuân ra sông giặt áo",
+        "bookRate": "0.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "3953369",
+                "113643562"
+            ],
+            "userName": [
+                "Tuan ",
+                "Hoài Phong"
+            ],
+            "rate": [
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                ""
+            ],
+            "datePost": [
+                "Apr 19, 2020",
+                "Apr 20, 2020"
+            ]
+        }
+    }
+]

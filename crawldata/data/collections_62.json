@@ -1,0 +1,152 @@
+[
+    {
+        "bookId": "52804770",
+        "bookLink": "https://www.goodreads.com/book/show/52804770-o-n-k-ch-t-nh-l",
+        "bookTitle": "Đoàn kịch tỉnh lẻ",
+        "bookRate": "4.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "88252354",
+                "115425152",
+                "12670794",
+                "96547666",
+                "114626076"
+            ],
+            "userName": [
+                "Lê Phan Quỳnh",
+                "Thùy Anh",
+                "Khuu Bao",
+                "Lê Ngọc Nguyên Phương",
+                "Phạm Thị  Ngát "
+            ],
+            "rate": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "May 29, 2020",
+                "May 29, 2020",
+                "Mar 29, 2020",
+                "Aug 12, 2020",
+                "May 06, 2020"
+            ]
+        }
+    },
+    {
+        "bookId": "34862422",
+        "bookLink": "https://www.goodreads.com/book/show/34862422-anh-b-c-u---tr-chuy-n-v-i-t-nh-y-u---t-p-4",
+        "bookTitle": "Anh Bồ Câu - Trò Chuyện Với Tình Yêu - Tập 4",
+        "bookRate": "5.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "67253117",
+                "42787916",
+                "49440869",
+                "55591826",
+                "82626146",
+                "91836615",
+                "70089371",
+                "76884783",
+                "98748488",
+                "93104285",
+                "75757125",
+                "88215245",
+                "88252354"
+            ],
+            "userName": [
+                "Kido",
+                "Phuong Nguyen",
+                "Windy",
+                "Van Tran",
+                "Linh Dương",
+                "Tuan Nguyen",
+                "Đan Trần",
+                "Tu Do Thu Ha",
+                "Thanh Hung",
+                "Jenny Jowie",
+                "Nương Ngọc",
+                "Hoang Hien",
+                "Lê Phan Quỳnh"
+            ],
+            "rate": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "May 04, 2017",
+                "Dec 15, 2017",
+                "Apr 15, 2017",
+                "Aug 02, 2017",
+                "Jan 04, 2019",
+                "Feb 25, 2019",
+                "May 24, 2019",
+                "May 27, 2019",
+                "Jun 19, 2019",
+                "Jun 24, 2019",
+                "Sep 27, 2019",
+                "Mar 10, 2020",
+                "May 29, 2020"
+            ]
+        }
+    }
+]

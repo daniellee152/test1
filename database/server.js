@@ -22,7 +22,7 @@ mongoose
 
 // READ JSON FILE
 const books = JSON.parse(
-  fs.readFileSync(`${__dirname}/../crawldata/data.json`, 'utf-8')
+  fs.readFileSync(`${__dirname}/../crawldata/data/allbooks.json`, 'utf-8')
 );
 
 // IMPORT DATA INTO DB

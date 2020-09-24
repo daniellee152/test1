@@ -1,0 +1,146 @@
+[
+    {
+        "bookId": "52450859",
+        "bookLink": "https://www.goodreads.com/book/show/52450859-qu-n-kem",
+        "bookTitle": "Quán kem",
+        "bookRate": "4.25",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "12670794",
+                "115425152",
+                "88252354",
+                "96547666",
+                "114626076",
+                "112205226"
+            ],
+            "userName": [
+                "Khuu Bao",
+                "Thùy Anh",
+                "Lê Phan Quỳnh",
+                "Lê Ngọc Nguyên Phương",
+                "Phạm Thị  Ngát ",
+                "Le Bao Tuong Vi"
+            ],
+            "rate": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "Mar 17, 2020",
+                "May 29, 2020",
+                "May 29, 2020",
+                "Aug 12, 2020",
+                "May 06, 2020",
+                "Jun 27, 2020"
+            ]
+        }
+    },
+    {
+        "bookId": "44072299",
+        "bookLink": "https://www.goodreads.com/book/show/44072299-c-xe-ng-a-k-b",
+        "bookTitle": "Cỗ xe ngựa kỳ bí (Kính Vạn Hoa, #23)",
+        "bookRate": "4.25",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "115425152",
+                "96547666",
+                "112122241",
+                "88252354",
+                "78108158",
+                "70089371",
+                "76884783",
+                "93384629",
+                "69271750",
+                "12670794",
+                "114626076"
+            ],
+            "userName": [
+                "Thùy Anh",
+                "Lê Ngọc Nguyên Phương",
+                "Linh",
+                "Lê Phan Quỳnh",
+                "Mimyysomething",
+                "Đan Trần",
+                "Tu Do Thu Ha",
+                "bong",
+                "Dang Minh Ngoc",
+                "Khuu Bao",
+                "Phạm Thị  Ngát "
+            ],
+            "rate": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "May 29, 2020",
+                "Aug 10, 2020",
+                "Apr 11, 2020",
+                "May 29, 2020",
+                "Feb 19, 2019",
+                "May 24, 2019",
+                "May 27, 2019",
+                "Jun 08, 2019",
+                "Jan 31, 2020",
+                "Feb 02, 2020",
+                "May 06, 2020"
+            ]
+        }
+    }
+]

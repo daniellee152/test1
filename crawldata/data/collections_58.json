@@ -1,0 +1,110 @@
+[
+    {
+        "bookId": "52529111",
+        "bookLink": "https://www.goodreads.com/book/show/52529111-hi-p-s-ng-ng-y",
+        "bookTitle": "Hiệp sĩ ngủ ngày",
+        "bookRate": "4.50",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "12670794",
+                "115425152",
+                "88252354",
+                "96547666",
+                "114626076"
+            ],
+            "userName": [
+                "Khuu Bao",
+                "Thùy Anh",
+                "Lê Phan Quỳnh",
+                "Lê Ngọc Nguyên Phương",
+                "Phạm Thị  Ngát "
+            ],
+            "rate": [
+                5,
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "Một quyển sách rất ý nghĩa về tình bạn tuổi học trò.",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "https://www.goodreads.com//review/show/3238611048?book_show_action=true&from_review_page=1",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "Mar 20, 2020",
+                "May 29, 2020",
+                "May 29, 2020",
+                "Aug 12, 2020",
+                "May 06, 2020"
+            ]
+        }
+    },
+    {
+        "bookId": "51946406",
+        "bookLink": "https://www.goodreads.com/book/show/51946406-m-i-l-m-ng-n-n-n",
+        "bookTitle": "Mười lăm ngọn nến",
+        "bookRate": "4.50",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "96547666",
+                "115425152",
+                "12670794",
+                "56271499",
+                "114626076",
+                "88252354"
+            ],
+            "userName": [
+                "Lê Ngọc Nguyên Phương",
+                "Thùy Anh",
+                "Khuu Bao",
+                "Phuongha95",
+                "Phạm Thị  Ngát ",
+                "Lê Phan Quỳnh"
+            ],
+            "rate": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "Aug 10, 2020",
+                "May 29, 2020",
+                "Feb 29, 2020",
+                "Jul 14, 2020",
+                "May 06, 2020",
+                "May 29, 2020"
+            ]
+        }
+    }
+]

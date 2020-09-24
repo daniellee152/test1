@@ -1,0 +1,56 @@
+[
+    {
+        "bookId": "53206485",
+        "bookLink": "https://www.goodreads.com/book/show/53206485-l-h-i-c-a-m-en",
+        "bookTitle": "Lễ hội của đêm đen",
+        "bookRate": "0.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "3953369"
+            ],
+            "userName": [
+                "Tuan "
+            ],
+            "rate": [
+                0
+            ],
+            "contentReview": [
+                ""
+            ],
+            "commentList": [
+                ""
+            ],
+            "datePost": [
+                "Apr 19, 2020"
+            ]
+        }
+    },
+    {
+        "bookId": "53206504",
+        "bookLink": "https://www.goodreads.com/book/show/53206504-b-m-t-c-a-m-t-v-s",
+        "bookTitle": "Bí mật của một võ sĩ",
+        "bookRate": "0.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "3953369"
+            ],
+            "userName": [
+                "Tuan "
+            ],
+            "rate": [
+                0
+            ],
+            "contentReview": [
+                ""
+            ],
+            "commentList": [
+                ""
+            ],
+            "datePost": [
+                "Apr 19, 2020"
+            ]
+        }
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "bookId": "53642005",
+        "bookLink": "https://www.goodreads.com/book/show/53642005-tr-ch-i-l-ng-m-n-c-a-t-nh-y-u",
+        "bookTitle": "Trò chơi lãng mạn của tình yêu",
+        "bookRate": "0.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "88252354"
+            ],
+            "userName": [
+                "Lê Phan Quỳnh"
+            ],
+            "rate": [
+                0
+            ],
+            "contentReview": [
+                ""
+            ],
+            "commentList": [
+                ""
+            ],
+            "datePost": [
+                "Jun 09, 2020"
+            ]
+        }
+    },
+    {
+        "bookId": "53206511",
+        "bookLink": "https://www.goodreads.com/book/show/53206511-c-ph-t-n",
+        "bookTitle": "Cú phạt đền",
+        "bookRate": "0.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "3953369",
+                "88252354",
+                "109543457"
+            ],
+            "userName": [
+                "Tuan ",
+                "Lê Phan Quỳnh",
+                "hungnguyen"
+            ],
+            "rate": [
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "Apr 19, 2020",
+                "Jun 09, 2020",
+                "Sep 15, 2020"
+            ]
+        }
+    }
+]

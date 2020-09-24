@@ -1,0 +1,104 @@
+[
+    {
+        "bookId": "52804751",
+        "bookLink": "https://www.goodreads.com/book/show/52804751-kho-b-u-d-i-h",
+        "bookTitle": "Kho báu dưới hồ",
+        "bookRate": "4.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "96547666",
+                "12670794",
+                "114626076",
+                "88252354"
+            ],
+            "userName": [
+                "Lê Ngọc Nguyên Phương",
+                "Khuu Bao",
+                "Phạm Thị  Ngát ",
+                "Lê Phan Quỳnh"
+            ],
+            "rate": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "Aug 12, 2020",
+                "Mar 29, 2020",
+                "May 06, 2020",
+                "May 29, 2020"
+            ]
+        }
+    },
+    {
+        "bookId": "51602361",
+        "bookLink": "https://www.goodreads.com/book/show/51602361-th-ng-th",
+        "bookTitle": "Thằng thỏ đế",
+        "bookRate": "4.00",
+        "bookDescription": "",
+        "bookReviews": {
+            "userId": [
+                "96547666",
+                "12670794",
+                "114626076",
+                "99297463",
+                "88252354",
+                "111415015"
+            ],
+            "userName": [
+                "Lê Ngọc Nguyên Phương",
+                "Khuu Bao",
+                "Phạm Thị  Ngát ",
+                "Phan An",
+                "Lê Phan Quỳnh",
+                "Dương Phú"
+            ],
+            "rate": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "contentReview": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "commentList": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "datePost": [
+                "Aug 10, 2020",
+                "Feb 23, 2020",
+                "May 06, 2020",
+                "May 19, 2020",
+                "Jun 09, 2020",
+                "Jun 20, 2020"
+            ]
+        }
+    }
+]
