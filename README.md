@@ -7,4 +7,10 @@
  - Run: npm init to install node modules 
  - Run: node server.js --import to save all data to database or node server.js --delete to delete all data in database 
  
-- MongoDB password, MongoDB compass link stored in config.env file 
+ ## Extract Information:
+ - Run:  pip3 install vncorenlp
+ - Start server: vncorenlp -Xmx2g <FULL-PATH-to-VnCoreNLP-jar-file> -p 9000 -a "wseg,pos,ner,parse" (PORT: 9000) 
+ - Run: python3 main.py to extract names and locations 
+ 
+For more information about the model and how to use VnCoreNLP, follow the link: https://github.com/vncorenlp/VnCoreNLP
+ 
