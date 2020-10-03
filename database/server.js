@@ -25,6 +25,7 @@ const books = JSON.parse(
   fs.readFileSync(`${__dirname}/../crawldata/data/allbooks.json`, 'utf-8')
 );
 
+
 // IMPORT DATA INTO DB
 const importData = async () => {
   try {
